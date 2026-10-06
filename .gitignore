@@ -1,0 +1,9 @@
+# Ignore everything by default; only the shareable scaffold is allowlisted below.
+# This fails closed: new scratch/answer files and assignment folders stay excluded automatically.
+/*
+
+!/AGENTS.md
+!/README.md
+!/.gitignore
+!/template.typ
+!/examplehw
