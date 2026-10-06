@@ -25,4 +25,5 @@ This repo is a **GitHub Template Repository**, so to use it for your own coursew
 
 Once you have your own private copy:
 - Edit `AGENTS.md` to match your own course's actual AI-use policy. The one here is just a starting point.
-- Create an `hwN/` folder per assignment and drop in `pset.pdf`, `hwN.typ`, and `submission.pdf` as you go. It's your private repo, so there's no need to gitignore any of it.
+- Create an `hwN/` folder per assignment and drop in `pset.pdf`, `hwN.typ`, and `submission.pdf` as you go. 
+- Update `.gitignore` to only track the files you want.
